@@ -26,7 +26,7 @@ APIs and allow user to type address in browser and get result.
 $ git clone https://github.com/your-username/Weather-Web.git
 
 # Go into the repository
-$ cd expenisfy-app
+$ cd weather-app
 
 # Install dependencies
 $ npm install
